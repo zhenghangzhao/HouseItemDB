@@ -8,4 +8,4 @@ Designed a database to inventory household items, clothings, etc. Help people ma
 5. Visualize the spending in the household, and the usage of each item.
 
 ## Enhanced-Entity Relationship Diagram
- ![EER](/images/EER.pdf)
+ ![EER](images/EER.png)
