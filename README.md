@@ -1,5 +1,8 @@
 # HouseItemDB
-Designed a database to inventory household items, clothings, etc. Help people manage what they have, how much money is spent on items. Improve the spending on more useful items
+Designed a database to inventory household items, clothings, etc. Help people manage what they have, how much money is spent on items. Improve the spending on more useful items.
+
+This is an open source program designed by Zhenghang Zhao.
+
 ## Provided Functions
 1. Storing both personal and household item information such as Item_Name, Purchase_Place, Brand, Owner, Price, Purchase_date, etc.
 2. Storing user information such as Name, Age, Items_owned, etc.
