@@ -12,3 +12,4 @@ This is an open source program designed by Zhenghang Zhao.
 
 ## Enhanced-Entity Relationship Diagram
  ![EER](images/EER.png)
+## Relational mapping of EER Diagram
